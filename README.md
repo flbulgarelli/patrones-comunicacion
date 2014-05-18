@@ -7,7 +7,7 @@ Ejemplos de patrones de comunicacion:
   * Corutinas: Ruby
   * Generadores: Python
   * Compracion con evaluacion diferida: Haskell
-* Memoria compartida 
+* Memoria compartida (C y Java) 
 * Eventos (nodejs)
 * Continuaciones (Haskell, Nodejs)
 * Excepciones (Scala, Elixir)
