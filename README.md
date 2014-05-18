@@ -9,7 +9,7 @@ Ejemplos de patrones de comunicacion:
   * Compracion con evaluacion diferida: Haskell
 * Memoria compartida (C y Java) 
 * Eventos (nodejs)
-* Continuaciones (Haskell, Nodejs)
+* Continuaciones (Groovy, Haskell, Nodejs)
 * Excepciones (Scala, Elixir)
 * Call and return (Groovy)
 * Monadico Haskell
